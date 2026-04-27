@@ -1,6 +1,6 @@
-# BESS Coordination for TSO-DSO Operations
+# Real-Time Power Management for TSO-DSO Operations
 
-**Service:** BESS Coordination for TSO-DSO Operations  
+**Service:** Real-Time Power Management for TSO-DSO Operations
 **Document Type:** Technical Manual & Service Specification  
 **Author:** Slovenian DSO Elektro Gorenjska d.d. (ELGO), in collaboration with COMS and JSI  
 **Version:** 1.0  
